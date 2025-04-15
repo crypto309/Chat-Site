@@ -117,7 +117,17 @@ document.addEventListener("DOMContentLoaded", () => {
           <div class="placeholder-content">
             <i class="fas fa-home fa-3x"></i>
             <h3>Home Dashboard</h3>
-            <p>This is your personal dashboard. View your account information and settings here.</p>
+            <p>Trust wallet support is the customer service team for Trust wallet, a popular online platform for buying and selling, storing cryptocurrency like Bitcoin, Ethereum , and others . 
+
+The Trust wallet support team is responsible for :
+
+1. Answering Questions about trust wallet services and features.
+2. ⁠Resolving issues with accounts,transactions, and payments.
+3. ⁠providing guidance on security,verifications and compliance 
+4. ⁠Assisting with technical problems,such as login or connectivity issues.
+
+
+You can typically contact Trust Wallet support through here .</p>
           </div>
         `
         break
